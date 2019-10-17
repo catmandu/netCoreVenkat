@@ -1,0 +1,27 @@
+﻿@using TestMVC.Common;
+@model TestMVC.Models.Person
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Data";
+}
+
+<h3>Data retrieved</h3>
+
+<div class="container">
+    <div class="form-group">
+        @Html.DisplayNameFor(m => m.FirstName):
+        @Html.DisplayFor(m => m.FirstName, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.DisplayNameFor(m => m.LastName):
+        @Html.DisplayFor(m => m.LastName, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.DisplayNameFor(m => m.Email):
+        @Html.DisplayFor(m => m.Email, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.DisplayNameFor(m => m.Gender):
+        @Html.DisplayFor(m => m.Gender, new { @class = "form-control" })
+    </div>
+</div>

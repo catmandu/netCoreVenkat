@@ -1,0 +1,68 @@
+﻿@model HomeDetailsViewModel
+
+@{
+    ViewBag.Title = "Employee details";
+    var photoPath = "~/Images/" + (Model.Employee.PhotoPath ?? "noimage.jpg");
+}
+
+<h3>@ViewData["PageTitle"]</h3>
+<h3>@Model.PageTitle</h3>
+
+@{
+    var VD_employee = ViewData["Employee"] as Employee;
+}
+<!--
+<div>
+    (VD)Name: VD_employee.Name
+</div>
+<div>
+    (VD)Email: VD_employee.Email
+</div>
+<div>
+    (VD)Department: VD_employee.Departnment
+</div>
+<div>
+    (VB)Name: ViewBag.Employee.Name
+</div>
+<div>
+    (VB)Email: ViewBag.Employee.Email
+</div>
+<div>
+    (VB)Department: ViewBag.Employee.Departnment
+</div>
+<div>
+    (ML)Name: Model.Employee.Name
+</div>
+<div>
+    (ML)Email: Model.Employee.Email
+</div>
+<div>
+    (ML)Department: Model.Employee.Departnment
+</div>
+-->
+
+<div class="row justify-content-center m-3">
+    <div class="col-sm-8">
+        <div class="card">
+            <div class="card-header">
+                <h1>@Model.Employee.Name</h1>
+            </div>
+            <div class="card-body text-center">
+                <img class="card-img-top" src="@photoPath" asp-append-version="true" />
+
+                <h4>Employee ID : @Model.Employee.Id</h4>
+                <h4>Email : @Model.Employee.Email</h4>
+                <h4>Department : @Model.Employee.Department</h4>
+            </div>
+            <div class="card-footer text-center">
+                <a asp-action="index" class="btn btn-primary">Back</a>
+                <a asp-action="edit" asp-controller="home" asp-route-id="@Model.Employee.Id" class="btn btn-primary m-1">Edit</a>
+                <a href="#" class="btn btn-danger">Delete</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+   <script src="~/js/CustomScript.js"></script>
+}

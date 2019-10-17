@@ -1,0 +1,1105 @@
+﻿Entering: Home -> Index -> 6/14/2019 10:41:21 AM 
+Completing: Home -> Index -> 6/14/2019 10:41:21 AM 
+------------------------------------------------------------------------------
+
+Entering: home -> details -> 6/14/2019 10:42:15 AM 
+Completing: home -> details -> 6/14/2019 10:42:16 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 10:42:19 AM 
+Completing: Home -> Index -> 6/14/2019 10:42:19 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 10:42:23 AM 
+Completing: Home -> Index -> 6/14/2019 10:42:23 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 10:42:27 AM 
+Completing: Home -> Index -> 6/14/2019 10:42:27 AM 
+------------------------------------------------------------------------------
+
+Entering: home -> details -> 6/14/2019 10:42:55 AM 
+Completing: home -> details -> 6/14/2019 10:42:55 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 10:43:00 AM 
+Completing: Home -> Index -> 6/14/2019 10:43:00 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 10:51:34 AM 
+Completing: Home -> Index -> 6/14/2019 10:51:34 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 10:59:20 AM 
+Completing: Home -> Index -> 6/14/2019 10:59:20 AM 
+------------------------------------------------------------------------------
+
+Entering: home -> details -> 6/14/2019 10:59:23 AM 
+Completing: home -> details -> 6/14/2019 10:59:23 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 10:59:25 AM 
+Completing: Home -> Index -> 6/14/2019 10:59:25 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 11:03:31 AM 
+Completing: Home -> Index -> 6/14/2019 11:03:31 AM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 6/14/2019 11:03:35 AM 
+Completing: account -> login -> 6/14/2019 11:03:35 AM 
+------------------------------------------------------------------------------
+
+Entering: account -> register -> 6/14/2019 11:03:49 AM 
+Completing: account -> register -> 6/14/2019 11:03:49 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 11:04:25 AM 
+Completing: Home -> Index -> 6/14/2019 11:04:25 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 11:04:56 AM 
+Completing: Home -> Index -> 6/14/2019 11:04:56 AM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 6/14/2019 11:05:17 AM 
+Completing: account -> login -> 6/14/2019 11:05:17 AM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 6/14/2019 11:05:24 AM 
+Completing: account -> login -> 6/14/2019 11:05:24 AM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 6/14/2019 11:05:29 AM 
+Completing: account -> login -> 6/14/2019 11:05:29 AM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 6/14/2019 11:05:36 AM 
+Completing: account -> login -> 6/14/2019 11:05:36 AM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 6/14/2019 11:05:46 AM 
+Completing: account -> login -> 6/14/2019 11:05:47 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 11:05:47 AM 
+Completing: Home -> Index -> 6/14/2019 11:05:47 AM 
+------------------------------------------------------------------------------
+
+Entering: home -> edit -> 6/14/2019 11:05:55 AM 
+Completing: home -> edit -> 6/14/2019 11:05:55 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 11:06:23 AM 
+Completing: Home -> Index -> 6/14/2019 11:06:23 AM 
+------------------------------------------------------------------------------
+
+Entering: home -> create -> 6/14/2019 11:06:25 AM 
+Completing: home -> create -> 6/14/2019 11:06:25 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 11:07:09 AM 
+Completing: Home -> Index -> 6/14/2019 11:07:09 AM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 6/14/2019 11:07:11 AM 
+Completing: account -> login -> 6/14/2019 11:07:11 AM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 6/14/2019 11:07:23 AM 
+Completing: account -> login -> 6/14/2019 11:07:23 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 11:07:23 AM 
+Completing: Home -> Index -> 6/14/2019 11:07:23 AM 
+------------------------------------------------------------------------------
+
+Entering: account -> logout -> 6/14/2019 11:10:58 AM 
+Completing: account -> logout -> 6/14/2019 11:10:58 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 11:10:58 AM 
+Completing: Home -> Index -> 6/14/2019 11:10:58 AM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/14/2019 11:18:33 AM 
+Completing: Home -> Index -> 6/14/2019 11:18:33 AM 
+------------------------------------------------------------------------------
+
+Entering: home -> details -> 6/14/2019 11:18:47 AM 
+Completing: home -> details -> 6/14/2019 11:18:50 AM 
+------------------------------------------------------------------------------
+
+Exception Ocurred: Error in Details view 
+StackTrace:    at EmployeeManagment.Controlleres.HomeController.Details(Nullable`1 id) in C:\Users\juanuri-c\source\repos\DotNetCoreTests\EmployeeManagment\Controlleres\HomeController.cs:line 51
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync() 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/17/2019 1:02:01 PM 
+Completing: Home -> Index -> 6/17/2019 1:02:01 PM 
+------------------------------------------------------------------------------
+
+Exception Ocurred: The process cannot access the file 'C:\Users\juanuri-c\source\repos\DotNetCoreTests\EmployeeManagment\wwwroot\logs\ExecutionLog.txt' because it is being used by another process. 
+StackTrace:    at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendAllText(String path, String contents)
+   at EmployeeManagment.Common.Filters.LogExecution.LogMessage(String message) in C:\Users\juanuri-c\source\repos\DotNetCoreTests\EmployeeManagment\Common\Filters\LogExecution.cs:line 32
+   at EmployeeManagment.Common.Filters.LogExecution.OnActionExecuting(ActionExecutingContext context) in C:\Users\juanuri-c\source\repos\DotNetCoreTests\EmployeeManagment\Common\Filters\LogExecution.cs:line 19
+   at Microsoft.AspNetCore.Mvc.Filters.ActionFilterAttribute.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync() 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/17/2019 1:02:12 PM 
+Completing: Home -> Index -> 6/17/2019 1:02:12 PM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/17/2019 1:02:12 PM 
+Completing: Home -> Index -> 6/17/2019 1:02:12 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 6/17/2019 1:02:14 PM 
+Completing: Account -> Login -> 6/17/2019 1:02:14 PM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/17/2019 1:02:17 PM 
+Completing: Home -> Index -> 6/17/2019 1:02:17 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 6/17/2019 1:04:45 PM 
+Completing: Account -> Login -> 6/17/2019 1:04:45 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 6/17/2019 1:05:00 PM 
+Completing: Account -> Login -> 6/17/2019 1:05:02 PM 
+------------------------------------------------------------------------------
+
+Entering: home -> create -> 6/17/2019 1:05:02 PM 
+Completing: home -> create -> 6/17/2019 1:05:02 PM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/17/2019 1:11:13 PM 
+Completing: Home -> Index -> 6/17/2019 1:11:13 PM 
+------------------------------------------------------------------------------
+
+Entering: home -> details -> 6/17/2019 1:11:32 PM 
+Completing: home -> details -> 6/17/2019 1:11:32 PM 
+------------------------------------------------------------------------------
+
+Exception Ocurred: Error in Details view 
+StackTrace:    at EmployeeManagment.Controlleres.HomeController.Details(Nullable`1 id) in C:\Users\juanuri-c\source\repos\DotNetCoreTests\EmployeeManagment\Controlleres\HomeController.cs:line 51
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync() 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/18/2019 2:35:46 PM 
+Completing: Home -> Index -> 6/18/2019 2:35:46 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 6/18/2019 2:36:09 PM 
+Completing: account -> login -> 6/18/2019 2:36:09 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 6/18/2019 2:36:18 PM 
+Completing: account -> login -> 6/18/2019 2:36:19 PM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/18/2019 2:36:19 PM 
+Completing: Home -> Index -> 6/18/2019 2:36:19 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> logout -> 6/18/2019 2:36:22 PM 
+Completing: account -> logout -> 6/18/2019 2:36:22 PM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/18/2019 2:36:22 PM 
+Completing: Home -> Index -> 6/18/2019 2:36:22 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 6/18/2019 2:36:29 PM 
+Completing: Account -> Login -> 6/18/2019 2:36:29 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 6/18/2019 2:36:58 PM 
+Completing: Account -> Login -> 6/18/2019 2:36:58 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 6/18/2019 2:37:07 PM 
+Completing: Account -> Login -> 6/18/2019 2:37:07 PM 
+------------------------------------------------------------------------------
+
+Entering: home -> edit -> 6/18/2019 2:37:07 PM 
+Completing: home -> edit -> 6/18/2019 2:37:07 PM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/19/2019 2:17:16 PM 
+Completing: Home -> Index -> 6/19/2019 2:17:16 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 6/19/2019 2:19:15 PM 
+Completing: Account -> Login -> 6/19/2019 2:19:15 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 6/19/2019 2:19:44 PM 
+Completing: Account -> Login -> 6/19/2019 2:19:44 PM 
+------------------------------------------------------------------------------
+
+Entering: home -> edit -> 6/19/2019 2:19:44 PM 
+Completing: home -> edit -> 6/19/2019 2:19:44 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> logout -> 6/19/2019 2:20:14 PM 
+Completing: account -> logout -> 6/19/2019 2:20:14 PM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/19/2019 2:20:14 PM 
+Completing: Home -> Index -> 6/19/2019 2:20:14 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 6/19/2019 2:20:16 PM 
+Completing: Account -> Login -> 6/19/2019 2:20:16 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 6/19/2019 2:20:24 PM 
+Completing: Account -> Login -> 6/19/2019 2:21:20 PM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/19/2019 2:21:20 PM 
+Completing: Home -> Index -> 6/19/2019 2:21:20 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> logout -> 6/19/2019 2:21:27 PM 
+Completing: account -> logout -> 6/19/2019 2:21:27 PM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/19/2019 2:21:27 PM 
+Completing: Home -> Index -> 6/19/2019 2:21:27 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 6/19/2019 2:21:31 PM 
+Completing: Account -> Login -> 6/19/2019 2:21:31 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 6/19/2019 2:22:01 PM 
+Completing: Account -> Login -> 6/19/2019 2:22:04 PM 
+------------------------------------------------------------------------------
+
+Entering: home -> edit -> 6/19/2019 2:22:04 PM 
+Completing: home -> edit -> 6/19/2019 2:22:04 PM 
+------------------------------------------------------------------------------
+
+Entering: Home -> Index -> 6/19/2019 2:23:24 PM 
+Completing: Home -> Index -> 6/19/2019 2:23:24 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 6/19/2019 2:27:12 PM 
+Completing: Account -> Login -> 6/19/2019 2:27:12 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> register -> 6/24/2019 2:26:02 PM 
+Completing: account -> register -> 6/24/2019 2:26:02 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> register -> 6/25/2019 3:11:10 PM 
+Completing: account -> register -> 6/25/2019 3:11:10 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> register -> 6/26/2019 2:53:45 PM 
+Completing: account -> register -> 6/26/2019 2:53:45 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 7/8/2019 9:58:56 AM 
+Completing: Account -> Login -> 7/8/2019 9:58:56 AM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 7/8/2019 9:59:09 AM 
+Completing: Account -> Login -> 7/8/2019 9:59:09 AM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 7/8/2019 9:59:57 AM 
+Completing: Account -> Login -> 7/8/2019 9:59:57 AM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 7/8/2019 10:00:04 AM 
+Completing: Account -> Login -> 7/8/2019 10:00:04 AM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 7/8/2019 10:00:46 AM 
+Completing: Account -> Login -> 7/8/2019 10:00:46 AM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 7/8/2019 10:00:52 AM 
+Completing: Account -> Login -> 7/8/2019 10:00:52 AM 
+------------------------------------------------------------------------------
+
+Entering: administration -> createrole -> 7/8/2019 10:00:52 AM 
+Completing: administration -> createrole -> 7/8/2019 10:00:52 AM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 7/8/2019 10:01:13 AM 
+Completing: Account -> Login -> 7/8/2019 10:01:13 AM 
+------------------------------------------------------------------------------
+
+Entering: administration -> createrole -> 7/8/2019 10:01:13 AM 
+Completing: administration -> createrole -> 7/8/2019 10:01:13 AM 
+------------------------------------------------------------------------------
+
+Entering: administration -> createrole -> 7/8/2019 10:02:00 AM 
+Completing: administration -> createrole -> 7/8/2019 10:02:00 AM 
+------------------------------------------------------------------------------
+
+Entering: administration -> createrole -> 7/8/2019 10:07:35 AM 
+Completing: administration -> createrole -> 7/8/2019 10:07:35 AM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 7/8/2019 4:27:37 PM 
+Completing: Account -> Login -> 7/8/2019 4:27:37 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> createrole -> 7/8/2019 4:27:37 PM 
+Completing: administration -> createrole -> 7/8/2019 4:27:37 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/8/2019 4:27:56 PM 
+Completing: administration -> listroles -> 7/8/2019 4:27:56 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> CreateRole -> 7/8/2019 4:28:00 PM 
+Completing: administration -> CreateRole -> 7/8/2019 4:28:00 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> CreateRole -> 7/8/2019 4:28:09 PM 
+Completing: administration -> CreateRole -> 7/8/2019 4:28:09 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> ListRoles -> 7/8/2019 4:28:10 PM 
+Completing: Administration -> ListRoles -> 7/8/2019 4:28:10 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> ListRoles -> 7/8/2019 4:31:55 PM 
+Completing: Administration -> ListRoles -> 7/8/2019 4:31:55 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> createrole -> 7/8/2019 4:32:16 PM 
+Completing: administration -> createrole -> 7/8/2019 4:32:16 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> createrole -> 7/8/2019 4:32:20 PM 
+Completing: administration -> createrole -> 7/8/2019 4:32:20 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> createrole -> 7/8/2019 4:32:24 PM 
+Completing: administration -> createrole -> 7/8/2019 4:32:24 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> ListRoles -> 7/8/2019 4:32:24 PM 
+Completing: Administration -> ListRoles -> 7/8/2019 4:32:24 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/9/2019 6:08:20 PM 
+Completing: administration -> listroles -> 7/9/2019 6:08:20 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/9/2019 6:08:22 PM 
+Completing: Administration -> EditRole -> 7/9/2019 6:08:22 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/9/2019 6:08:51 PM 
+Completing: Administration -> EditRole -> 7/9/2019 6:08:51 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/9/2019 6:12:31 PM 
+Completing: Administration -> EditRole -> 7/9/2019 6:12:33 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/9/2019 6:12:47 PM 
+Completing: Administration -> EditRole -> 7/9/2019 6:12:47 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/9/2019 6:12:57 PM 
+Completing: Administration -> EditRole -> 7/9/2019 6:12:57 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/9/2019 6:12:58 PM 
+Completing: administration -> listroles -> 7/9/2019 6:12:58 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/9/2019 6:13:00 PM 
+Completing: Administration -> EditRole -> 7/9/2019 6:13:00 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/9/2019 6:13:03 PM 
+Completing: Administration -> EditRole -> 7/9/2019 6:13:03 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> ListRoles -> 7/9/2019 6:13:03 PM 
+Completing: Administration -> ListRoles -> 7/9/2019 6:13:03 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/9/2019 6:13:19 PM 
+Completing: Administration -> EditRole -> 7/9/2019 6:13:19 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/9/2019 6:13:23 PM 
+Completing: Administration -> EditRole -> 7/9/2019 6:13:23 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/9/2019 6:13:28 PM 
+Completing: Administration -> EditRole -> 7/9/2019 6:13:28 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> ListRoles -> 7/9/2019 6:13:28 PM 
+Completing: Administration -> ListRoles -> 7/9/2019 6:13:28 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Login -> 7/23/2019 11:20:06 AM 
+Completing: Account -> Login -> 7/23/2019 11:20:06 AM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/23/2019 11:20:06 AM 
+Completing: administration -> listroles -> 7/23/2019 11:20:06 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 11:20:12 AM 
+Completing: Administration -> EditRole -> 7/23/2019 11:20:12 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:21:23 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:21:23 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:34:43 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:34:44 AM 
+------------------------------------------------------------------------------
+
+Exception Ocurred: Value cannot be null.
+Parameter name: user 
+StackTrace:    at Microsoft.AspNetCore.Identity.UserManager`1.IsInRoleAsync(TUser user, String role)
+   at EmployeeManagment.Controlleres.AdministrationController.EditUsersInRole(List`1 model, String roleId) in C:\Users\juanuri-c\source\repos\DotNetCoreTests\EmployeeManagment\Controlleres\AdministrationController.cs:line 179
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync() 
+------------------------------------------------------------------------------
+
+Entering: administration -> createrole -> 7/23/2019 11:35:08 AM 
+Completing: administration -> createrole -> 7/23/2019 11:35:08 AM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/23/2019 11:35:13 AM 
+Completing: administration -> listroles -> 7/23/2019 11:35:13 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 11:35:17 AM 
+Completing: Administration -> EditRole -> 7/23/2019 11:35:17 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:35:24 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:35:24 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:35:28 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:35:28 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 11:35:29 AM 
+Completing: Administration -> EditRole -> 7/23/2019 11:35:29 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:35:34 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:35:34 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:35:38 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:35:38 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 11:35:38 AM 
+Completing: Administration -> EditRole -> 7/23/2019 11:35:38 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:35:41 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:35:41 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:35:42 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:35:42 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 11:35:43 AM 
+Completing: Administration -> EditRole -> 7/23/2019 11:35:43 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:35:46 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:35:46 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:35:47 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:35:47 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 11:35:47 AM 
+Completing: Administration -> EditRole -> 7/23/2019 11:35:47 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:35:48 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:35:48 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 11:35:49 AM 
+Completing: Administration -> EditRole -> 7/23/2019 11:35:49 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:35:52 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:35:52 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:36:11 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:36:11 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 11:36:11 AM 
+Completing: Administration -> EditRole -> 7/23/2019 11:36:11 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:36:20 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:36:20 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:36:22 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:36:22 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 11:36:22 AM 
+Completing: Administration -> EditRole -> 7/23/2019 11:36:22 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:36:28 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:36:28 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 11:36:35 AM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 11:36:35 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 11:36:35 AM 
+Completing: Administration -> EditRole -> 7/23/2019 11:36:35 AM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/23/2019 4:04:39 PM 
+Completing: administration -> listroles -> 7/23/2019 4:04:39 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 4:04:42 PM 
+Completing: Administration -> EditRole -> 7/23/2019 4:04:42 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 7/23/2019 4:05:51 PM 
+Completing: account -> login -> 7/23/2019 4:05:51 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 7/23/2019 4:08:18 PM 
+Completing: account -> login -> 7/23/2019 4:08:18 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/23/2019 4:08:22 PM 
+Completing: administration -> listroles -> 7/23/2019 4:08:22 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 4:08:25 PM 
+Completing: Administration -> EditRole -> 7/23/2019 4:08:25 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 4:08:26 PM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 4:08:26 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 4:08:28 PM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 4:08:28 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 4:08:28 PM 
+Completing: Administration -> EditRole -> 7/23/2019 4:08:28 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 7/23/2019 4:09:14 PM 
+Completing: account -> login -> 7/23/2019 4:09:14 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/23/2019 4:09:17 PM 
+Completing: administration -> listroles -> 7/23/2019 4:09:17 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/23/2019 4:09:18 PM 
+Completing: administration -> listroles -> 7/23/2019 4:09:18 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> register -> 7/23/2019 4:10:19 PM 
+Completing: account -> register -> 7/23/2019 4:10:19 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 7/23/2019 4:10:39 PM 
+Completing: account -> login -> 7/23/2019 4:10:39 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/23/2019 4:10:56 PM 
+Completing: administration -> listroles -> 7/23/2019 4:10:56 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/23/2019 4:10:57 PM 
+Completing: administration -> listroles -> 7/23/2019 4:10:57 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 4:11:03 PM 
+Completing: Administration -> EditRole -> 7/23/2019 4:11:03 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 4:11:04 PM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 4:11:05 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 4:11:08 PM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 4:11:08 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 4:11:08 PM 
+Completing: Administration -> EditRole -> 7/23/2019 4:11:08 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> ListRoles -> 7/23/2019 4:11:16 PM 
+Completing: Administration -> ListRoles -> 7/23/2019 4:11:16 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 4:11:18 PM 
+Completing: Administration -> EditRole -> 7/23/2019 4:11:18 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 4:11:19 PM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 4:11:19 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/23/2019 4:11:21 PM 
+Completing: Administration -> EditUsersInRole -> 7/23/2019 4:11:22 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 4:11:22 PM 
+Completing: Administration -> EditRole -> 7/23/2019 4:11:22 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> ListRoles -> 7/23/2019 4:11:23 PM 
+Completing: Administration -> ListRoles -> 7/23/2019 4:11:23 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 4:11:25 PM 
+Completing: Administration -> EditRole -> 7/23/2019 4:11:25 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> ListRoles -> 7/23/2019 4:11:27 PM 
+Completing: Administration -> ListRoles -> 7/23/2019 4:11:27 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/23/2019 4:11:28 PM 
+Completing: Administration -> EditRole -> 7/23/2019 4:11:28 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> ListRoles -> 7/23/2019 4:11:29 PM 
+Completing: Administration -> ListRoles -> 7/23/2019 4:11:29 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listRoles -> 7/25/2019 3:48:33 PM 
+Completing: administration -> listRoles -> 7/25/2019 3:48:33 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/25/2019 3:48:35 PM 
+Completing: Administration -> EditRole -> 7/25/2019 3:48:35 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 7/25/2019 3:48:42 PM 
+Completing: Administration -> EditUsersInRole -> 7/25/2019 3:48:42 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 7/25/2019 3:49:00 PM 
+Completing: account -> login -> 7/25/2019 3:49:00 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/25/2019 3:49:31 PM 
+Completing: administration -> listroles -> 7/25/2019 3:49:31 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/25/2019 3:49:32 PM 
+Completing: administration -> listroles -> 7/25/2019 3:49:32 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditRole -> 7/25/2019 3:50:15 PM 
+Completing: Administration -> EditRole -> 7/25/2019 3:50:15 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 7/29/2019 2:54:25 PM 
+Completing: account -> login -> 7/29/2019 2:54:25 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listusers -> 7/29/2019 2:54:32 PM 
+Completing: administration -> listusers -> 7/29/2019 2:54:32 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listusers -> 7/29/2019 2:54:55 PM 
+Completing: administration -> listusers -> 7/29/2019 2:54:55 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listusers -> 7/29/2019 2:55:04 PM 
+Completing: administration -> listusers -> 7/29/2019 2:55:04 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listRoles -> 7/29/2019 2:55:11 PM 
+Completing: administration -> listRoles -> 7/29/2019 2:55:11 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/29/2019 3:01:37 PM 
+Completing: administration -> listroles -> 7/29/2019 3:01:37 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/29/2019 3:02:54 PM 
+Completing: administration -> listroles -> 7/29/2019 3:02:54 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/29/2019 3:05:00 PM 
+Completing: administration -> listroles -> 7/29/2019 3:05:00 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listroles -> 7/29/2019 3:06:31 PM 
+Completing: administration -> listroles -> 7/29/2019 3:06:31 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 7/29/2019 3:07:10 PM 
+Completing: administration -> listUsers -> 7/29/2019 3:07:10 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listRoles -> 7/29/2019 3:07:13 PM 
+Completing: administration -> listRoles -> 7/29/2019 3:07:13 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listRoles -> 7/29/2019 3:10:35 PM 
+Completing: administration -> listRoles -> 7/29/2019 3:10:35 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 7/29/2019 3:10:37 PM 
+Completing: administration -> listUsers -> 7/29/2019 3:10:37 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listRoles -> 7/29/2019 3:16:00 PM 
+Completing: administration -> listRoles -> 7/29/2019 3:16:00 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 7/29/2019 3:16:02 PM 
+Completing: administration -> listUsers -> 7/29/2019 3:16:02 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Register -> 7/29/2019 3:23:34 PM 
+Completing: Account -> Register -> 7/29/2019 3:23:34 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> register -> 7/29/2019 3:27:15 PM 
+Completing: account -> register -> 7/29/2019 3:27:15 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 7/29/2019 3:27:34 PM 
+Completing: account -> login -> 7/29/2019 3:27:34 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 7/29/2019 3:27:40 PM 
+Completing: administration -> listUsers -> 7/29/2019 3:27:40 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Register -> 7/29/2019 3:28:06 PM 
+Completing: Account -> Register -> 7/29/2019 3:28:06 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 8/2/2019 4:31:01 PM 
+Completing: account -> login -> 8/2/2019 4:31:01 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 8/2/2019 4:31:05 PM 
+Completing: administration -> listUsers -> 8/2/2019 4:31:05 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUser -> 8/2/2019 4:31:07 PM 
+Completing: Administration -> EditUser -> 8/2/2019 4:31:07 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 8/2/2019 4:32:22 PM 
+Completing: administration -> listUsers -> 8/2/2019 4:32:22 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUser -> 8/2/2019 4:32:24 PM 
+Completing: Administration -> EditUser -> 8/2/2019 4:32:24 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 8/2/2019 4:32:30 PM 
+Completing: administration -> listUsers -> 8/2/2019 4:32:30 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUser -> 8/2/2019 4:32:32 PM 
+Completing: Administration -> EditUser -> 8/2/2019 4:32:32 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 8/2/2019 4:32:35 PM 
+Completing: administration -> listUsers -> 8/2/2019 4:32:35 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUser -> 8/2/2019 4:32:37 PM 
+Completing: Administration -> EditUser -> 8/2/2019 4:32:37 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> ListUsers -> 8/2/2019 4:40:01 PM 
+Completing: Administration -> ListUsers -> 8/2/2019 4:40:02 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUser -> 8/2/2019 4:40:27 PM 
+Completing: Administration -> EditUser -> 8/2/2019 4:40:27 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUser -> 8/2/2019 4:40:41 PM 
+Completing: Administration -> EditUser -> 8/2/2019 4:40:41 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUser -> 8/2/2019 4:40:50 PM 
+Completing: Administration -> EditUser -> 8/2/2019 4:40:50 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> ListUsers -> 8/2/2019 4:40:50 PM 
+Completing: Administration -> ListUsers -> 8/2/2019 4:40:50 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUser -> 8/2/2019 4:40:53 PM 
+Completing: Administration -> EditUser -> 8/2/2019 4:40:53 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> ListUsers -> 8/2/2019 4:43:38 PM 
+Completing: Administration -> ListUsers -> 8/2/2019 4:43:38 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 8/2/2019 4:51:54 PM 
+Completing: administration -> listUsers -> 8/2/2019 4:51:54 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 8/2/2019 4:52:16 PM 
+Completing: administration -> listUsers -> 8/2/2019 4:52:16 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 8/2/2019 4:52:20 PM 
+Completing: administration -> listUsers -> 8/2/2019 4:52:20 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 8/2/2019 4:53:26 PM 
+Completing: administration -> listUsers -> 8/2/2019 4:53:27 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 8/2/2019 4:53:33 PM 
+Completing: administration -> listUsers -> 8/2/2019 4:53:33 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 8/2/2019 4:54:22 PM 
+Completing: administration -> listUsers -> 8/2/2019 4:54:22 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> listUsers -> 8/2/2019 4:55:56 PM 
+Completing: administration -> listUsers -> 8/2/2019 4:55:56 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> DeleteUser -> 8/2/2019 4:55:59 PM 
+Completing: administration -> DeleteUser -> 8/2/2019 4:55:59 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> ListUsers -> 8/2/2019 4:55:59 PM 
+Completing: administration -> ListUsers -> 8/2/2019 4:55:59 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> DeleteUser -> 8/2/2019 4:56:03 PM 
+Completing: administration -> DeleteUser -> 8/2/2019 4:56:03 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> ListUsers -> 8/2/2019 4:56:03 PM 
+Completing: administration -> ListUsers -> 8/2/2019 4:56:03 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUser -> 8/2/2019 4:56:18 PM 
+Completing: Administration -> EditUser -> 8/2/2019 4:56:18 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> ListUsers -> 8/2/2019 4:56:22 PM 
+Completing: Administration -> ListUsers -> 8/2/2019 4:56:22 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> DeleteUser -> 8/2/2019 4:56:24 PM 
+Completing: Administration -> DeleteUser -> 8/2/2019 4:56:24 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> ListUsers -> 8/2/2019 4:56:24 PM 
+Completing: Administration -> ListUsers -> 8/2/2019 4:56:24 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> DeleteUser -> 8/5/2019 3:49:12 PM 
+Completing: administration -> DeleteUser -> 8/5/2019 3:49:12 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Register -> 8/5/2019 3:49:38 PM 
+Completing: Account -> Register -> 8/5/2019 3:49:39 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUser -> 8/5/2019 3:50:07 PM 
+Completing: Administration -> EditUser -> 8/5/2019 3:50:07 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 8/5/2019 3:50:47 PM 
+Completing: Administration -> EditUsersInRole -> 8/5/2019 3:50:47 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 8/8/2019 11:57:01 AM 
+Completing: account -> login -> 8/8/2019 11:57:01 AM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> DeleteRole -> 8/8/2019 11:57:33 AM 
+Completing: Administration -> DeleteRole -> 8/8/2019 11:57:33 AM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 8/12/2019 3:13:58 PM 
+Completing: account -> login -> 8/12/2019 3:14:06 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> register -> 8/12/2019 3:15:45 PM 
+Completing: account -> register -> 8/12/2019 3:15:45 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> register -> 8/12/2019 3:16:04 PM 
+Completing: account -> register -> 8/12/2019 3:16:04 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> createrole -> 8/12/2019 3:18:14 PM 
+Completing: administration -> createrole -> 8/12/2019 3:18:15 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 8/12/2019 3:18:22 PM 
+Completing: Administration -> EditUsersInRole -> 8/12/2019 3:18:22 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 8/12/2019 3:19:11 PM 
+Completing: account -> login -> 8/12/2019 3:19:11 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> createrole -> 8/12/2019 3:19:57 PM 
+Completing: administration -> createrole -> 8/12/2019 3:19:57 PM 
+------------------------------------------------------------------------------
+
+Entering: Account -> Register -> 8/12/2019 3:20:36 PM 
+Completing: Account -> Register -> 8/12/2019 3:20:36 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 8/12/2019 3:20:54 PM 
+Completing: Administration -> EditUsersInRole -> 8/12/2019 3:20:54 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUser -> 8/12/2019 3:21:04 PM 
+Completing: Administration -> EditUser -> 8/12/2019 3:21:04 PM 
+------------------------------------------------------------------------------
+
+Entering: Error -> HttpStatusCodeHandler -> 8/12/2019 3:23:22 PM 
+Completing: Error -> HttpStatusCodeHandler -> 8/12/2019 3:23:22 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> DeleteRole -> 8/12/2019 3:23:40 PM 
+Completing: administration -> DeleteRole -> 8/12/2019 3:23:40 PM 
+------------------------------------------------------------------------------
+
+Exception Ocurred: An error occurred while updating the entries. See the inner exception for details. 
+StackTrace:    at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(DbContext _, ValueTuple`2 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IReadOnlyList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Identity.EntityFrameworkCore.RoleStore`5.SaveChanges(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Identity.EntityFrameworkCore.RoleStore`5.DeleteAsync(TRole role, CancellationToken cancellationToken)
+   at EmployeeManagment.Controlleres.AdministrationController.DeleteRole(String id) in C:\Users\juanuri-c\source\repos\DotNetCoreTests\EmployeeManagment\Controlleres\AdministrationController.cs:line 112
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync() 
+------------------------------------------------------------------------------
+
+Entering: Error -> Error -> 8/12/2019 3:23:40 PM 
+Completing: Error -> Error -> 8/12/2019 3:23:40 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> DeleteRole -> 8/12/2019 3:30:18 PM 
+Completing: administration -> DeleteRole -> 8/12/2019 3:30:18 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 8/12/2019 3:30:31 PM 
+Completing: Administration -> EditUsersInRole -> 8/12/2019 3:30:31 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> DeleteRole -> 8/12/2019 3:30:36 PM 
+Completing: administration -> DeleteRole -> 8/12/2019 3:30:36 PM 
+------------------------------------------------------------------------------
+
+Entering: administration -> createrole -> 8/12/2019 3:30:55 PM 
+Completing: administration -> createrole -> 8/12/2019 3:30:55 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> EditUsersInRole -> 8/12/2019 3:31:03 PM 
+Completing: Administration -> EditUsersInRole -> 8/12/2019 3:31:03 PM 
+------------------------------------------------------------------------------
+
+Entering: Administration -> DeleteRole -> 8/12/2019 3:41:09 PM 
+Completing: Administration -> DeleteRole -> 8/12/2019 3:41:09 PM 
+------------------------------------------------------------------------------
+
+Entering: Error -> HttpStatusCodeHandler -> 8/14/2019 2:41:29 PM 
+Completing: Error -> HttpStatusCodeHandler -> 8/14/2019 2:41:29 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 8/23/2019 12:06:53 PM 
+Completing: account -> login -> 8/23/2019 12:06:53 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 8/23/2019 12:07:03 PM 
+Completing: account -> login -> 8/23/2019 12:07:03 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 8/23/2019 12:07:59 PM 
+Completing: account -> login -> 8/23/2019 12:07:59 PM 
+------------------------------------------------------------------------------
+
+Entering: account -> login -> 9/20/2019 11:46:55 AM 
+Completing: account -> login -> 9/20/2019 11:46:55 AM 
+------------------------------------------------------------------------------
+
